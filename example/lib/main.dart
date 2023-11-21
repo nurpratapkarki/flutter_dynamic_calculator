@@ -132,3 +132,5 @@ class _CalcButtonState extends State<CalcButton> {
     );
   }
 }
+/* A question: In "import 'package:flutter_dynamic_calculator/flutter_dynamic_calculator.dart';" This show me error cause it says file doesnt exists. in the website it says to add the dependenies but i cant
+get it anywhere please help me in this */
